@@ -1,0 +1,15 @@
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/bin/Debug/net6.0/Homework-week5
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/bin/Debug/net6.0/Homework-week5.deps.json
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/bin/Debug/net6.0/Homework-week5.runtimeconfig.json
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/bin/Debug/net6.0/Homework-week5.dll
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/bin/Debug/net6.0/Homework-week5.pdb
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.csproj.AssemblyReference.cache
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.AssemblyInfoInputs.cache
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.AssemblyInfo.cs
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.csproj.CoreCompileInputs.cache
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.dll
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/refint/Homework-week5.dll
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.pdb
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/Homework-week5.genruntimeconfig.cache
+/Users/giorgishushanashvili/Projects/Homework-week4/Homework-week5/obj/Debug/net6.0/ref/Homework-week5.dll
