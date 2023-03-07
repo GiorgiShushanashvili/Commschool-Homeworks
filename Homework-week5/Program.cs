@@ -1,4 +1,5 @@
-﻿#region task1
+﻿//week5 homework
+#region task1
 
 Console.WriteLine("enter a number");
 var num = Convert.ToInt32(Console.ReadLine());
@@ -86,6 +87,7 @@ while (c < b)
 
 
 #endregion
+
 
 
 
