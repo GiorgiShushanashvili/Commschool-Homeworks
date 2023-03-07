@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿//week5 homework
 #region task1
 
@@ -92,3 +93,7 @@ while (c < b)
 
 
 
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> master
