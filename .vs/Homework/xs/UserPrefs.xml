@@ -4,7 +4,11 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Homework6/Program.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="Homework6/Program.cs" Line="36" Column="27" />
+=======
+      <File FileName="Homework6/Program.cs" Line="30" Column="1" />
+>>>>>>> master
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
