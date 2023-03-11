@@ -26,7 +26,21 @@ Console.ReadLine();
 
 #endregion
 
+<<<<<<< HEAD
+#region task3
+int[] newarray = new int[] { 56, 87, 34, 32, 76, 54, 23, 45 };
+
+Console.WriteLine("enter the number of top participants");
+int num = int.Parse(Console.ReadLine());
+var numb1 = newarray.GroupBy(score => score).
+    OrderByDescending(x => x.Key).Take(num).SelectMany(g => g);
+foreach (var item in numb1)
+{
+    Console.WriteLine(item);
+}
+=======
 #region task2
+>>>>>>> master
 
 
 #endregion
